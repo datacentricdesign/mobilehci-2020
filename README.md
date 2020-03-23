@@ -21,6 +21,15 @@ The workshop outcome will take the form of a MobileHCI vision to support ethical
 approaches and a research agenda. We scope the workshop around three core moral values that relates to
 technology from Value-Sensitive Design.
 
+# Call for Participation
+
+To participate in this workshop, send us a 2-page position paper in expressing your views,
+experience or opinions towards ethical Data-Centric design of mobile systems. We invite
+participation from all disciplines beyond HCI, including philosophy, social sciences and design.
+
+Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
+
+Contact: [mobilehci@datacentricdesign.org](mailto:mobilehci@datacentricdesign.org)
 
 
 # Workshop Activity Plan
