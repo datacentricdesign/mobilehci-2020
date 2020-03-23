@@ -57,12 +57,10 @@ Connect participants who want to engage in follow-up work and nurture the commun
     
 ## Dinner
 
+# Organisers
 
-Jacky Bourgeois is tenure-track Assistant Professor at the Faculty of Industrial Design Engineering, TU Delft. With a background in computer science, he explores the exciting interface between Design and the Internet of Things with a focus on personal data.
-
-Aaron Ding is a tenure-track Assistant Professor in the Department of Engineering Systems and Services at TU Delft and Adjunct Professor (Dosentti) in Computer Science at University of Helsinki. His research focuses on edge computing, distributed AI and data-driven IoT services. He has over 12 years of research experience across EU, UK and USA.
-
-Jered Vroon is Postdoc Social Interaction Dynamics in the Knowledge and Intelligence Design Group, TU Delft. He is fascinated by the various ways in which people attempt to interact with the technology around us, and investigates how we can create artefacts that meaningfully engage in those interactions.
-
-Ella Peltonen is a research scientist with the Center for Ubiquitous Computing, University of Oulu, Finland. Her research focuses on pervasive everyday sensing, edge-native machine learning, and "from data to actions" including ubiquitous recommendation systems and data analytics.
+* Jacky Bourgeois
+* Aaron Ding 
+* Jered Vroon 
+* Ella Peltonen
 
