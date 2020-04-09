@@ -34,7 +34,7 @@ one day of the main MobileHCI 2020 conference.
 
 Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
 
-Contact: [mobilehci@datacentricdesign.org](mailto:mobilehci@datacentricdesign.org)
+Contact and participation submission: [mobilehci@datacentricdesign.org](mailto:mobilehci@datacentricdesign.org)
 
 
 # Workshop Activity Plan
