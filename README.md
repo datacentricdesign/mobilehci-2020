@@ -23,9 +23,14 @@ technology from Value-Sensitive Design.
 
 # Call for Participation
 
-To participate in this workshop, send us a 2-page position paper in expressing your views,
-experience or opinions towards ethical Data-Centric design of intelligent behaviour. We invite
-participation from all disciplines beyond HCI, including philosophy, social sciences and design.
+Are you interested in contributing to this discussion? Would you like to join us in criticising, fantasising,
+and implementing a research agenda for the MobileHCI community? You are hereby kindly invited to join our
+workshop, by submitting a 2-page position paper expressing your views, experience or opinions towards
+ethical Data-Centric design of intelligent behaviour.
+
+Please note that all workshop participants must register for both the workshop and for at least
+one day of the main MobileHCI 2020 conference. 
+
 
 Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
 
