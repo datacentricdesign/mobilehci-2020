@@ -28,9 +28,16 @@ and implementing a research agenda for the MobileHCI community? You are hereby k
 workshop, by submitting a 2-page position paper expressing your views, experience or opinions towards
 ethical Data-Centric design of intelligent behaviour.
 
-Please note that all workshop participants must register for both the workshop and for at least
-one day of the main MobileHCI 2020 conference. 
+**Please note that all workshop participants must register for both the workshop and for at least
+one day of the main MobileHCI 2020 conference.**
 
+## Important Dates
+
+* Submission deadline: August 5th, 2020
+* Notification of acceptance: August 26th, 2020
+* Workshop: October 5th, 2020
+
+## Format and Contact
 
 Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
 
