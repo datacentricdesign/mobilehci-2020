@@ -1,0 +1,27 @@
+---
+layout: minimal
+title: "DatEthics 2020"
+permalink: /organisers
+description: First International Workshop on Ethical Data-Centric Design of Intelligent Behaviour
+info: Online, October 5th
+---
+
+<h1>Organizers</h1>
+
+{% for organiser in site.organisers %}
+<section class="author" itemprop="author">
+    <div class="details" itemscope itemtype="http://schema.org/Person">
+        {% if organiser.img != null %}
+       <img itemprop="image" class="img-rounded" src="{{ organiser.img }}" style="max-width: 200px;" alt="{{ organiser.name }}">
+       {% endif %}
+       <h3 class="name">
+           <a itemprop="name" href="{{ organiser.link }}">{{ organiser.name }}</a>
+        </h3>
+        <p class="desc">{{ organiser.position }}<br/>{{ organiser.content }}</p>
+        {% if organiser.mail != null %}
+        <p><a itemprop="email" class="email" href="mailto:{{ organiser.mail }}">{{ organiser.mail }}</a></p>
+        {% endif %}
+    </div>
+</section>
+{% endfor %}
+

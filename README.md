@@ -1,87 +1,74 @@
-The Internet of Things makes human activity data -- what people do, how they move, how they socialise -- 
-an abundant resource. However, this rich and intimate perspective on people, which uniquely shape and 
-characterise their behaviours, can have tremendous ethical implication if data is handled irresponsibly.
-Being personal, contextual and accessible, mobile devices are key facilitators of (ir)responsible collection
-and use of data. In this workshop, we will use the Future Workshop approach to develop a research agenda
-towards ethical data-centric design of intelligent behaviours. As part of this approach, we will:
- 
- 1. criticise the current mechanisms and infrastructure to frame ethical challenges
- 2. fantasise on futures which support user and designer values, and 
- 3. implement a research agenda for the MobileHCI community to emphasise the barriers to tackle.
- 
-The outcomes of this workshop will foster ethical research and inspire the MobileHCI community.
+---
+layout: minimal
+title: "DatEthics 2020"
+permalink: /
+description: "First International Workshop on Ethical Data-Centric Design of Intelligent Behaviour"
+info: Online, October 5th
+twitter_text: DatEthics 2020
+---
 
-# Goal of the Workshop
+The Internet of Things makes human activity data – what people do, how they move, how they socialise – an abundant resource. However, this rich and intimate perspective on people, which uniquely shape and characterise their behaviours, can have tremendous ethical implication if data is handled irresponsibly. Being personal, contextual and accessible, mobile devices are key facilitators of (ir)responsible collection and use of data. In this workshop, we will use the Future Workshop approach to develop a research agenda towards ethical data-centric design of intelligent behaviours. As part of this approach, we will (1) criticise the current mechanisms and infrastructure to frame ethical challenges, (2) fantasise on futures which support user and designer values, and (3) implement a research agenda for the MobileHCI community to emphasise the barriers to tackle. The outcomes of this workshop will foster ethical research and inspire the MobileHCI community.
 
-The goal of this 1-day workshop is to envision the design of mobile interactions that foster
-ethical Data-Centric Design of intelligent behaviour. These interactions will be the
-materialisation of mechanisms that support ethical use of human activity data to better
-understand the role of mobile platforms in responsible Data-Centric Design of intelligent behaviours.
-The workshop outcome will take the form of a MobileHCI vision to support ethical Data-Centric Design
-approaches and a research agenda. We scope the workshop around three core moral values that relates to
-technology from Value-Sensitive Design.
+Topics include but are not limited to:
 
-# Call for Participation
+* Personal activity data as design material
+* Internet of Things as a design tool
+* Responsibility and values in designing with data
+* Co-analysis with data subjects, crowd-sourcing or AI
+* Role of designers with data and AI
+* “from data to actions”
+* Design of data-driven and evolving things
+* Social interaction with behaving things
+* Pervasive everyday sensing
+* Edge computing
+* Distributed AI
+* Etc.
 
-Are you interested in contributing to this discussion? Would you like to join us in criticising, fantasising,
-and implementing a research agenda for the MobileHCI community? You are hereby kindly invited to join our
-workshop, by submitting a 2-page position paper expressing your views, experience or opinions towards
-ethical Data-Centric design of intelligent behaviour.
+# Participation
 
-**Please note that all workshop participants must register for both the workshop and for at least
-one day of the main MobileHCI 2020 conference.**
+To accommodate for the current COVID-19 situation, participation in the workshop will be possible in two ways:
 
-## Important Dates
+## Option 1: Peer-reviewed Contribution
 
-* Submission deadline: August 5th, 2020
-* Notification of acceptance: August 26th, 2020
-* Workshop: October 5th, 2020
+Submitting a 2-4 page contribution for peer review and publication in the companion of the conference proceedings.
 
-## Format and Contact
+There will be some costs associated with publication.
 
 Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
+
+Important dates:
+* Submission deadline: 1/7/2020
+* Notification of acceptance: 29/7/2020 
+* Camera-ready submission: 14/8/2020
+
+## Option 2: Expression of Interest
+
+Submit a 1-2 paragraph expression of interest, indicating briefly how the workshop relates to your own work. 
+
+We will curate the submitted expressions of interest on quality and diversity. The conference organizers have graciously allowed us to waive all fees for participating in this way.  
+
+We are thriving for making this contribution free of registration cost, waiting for the green light from the Mobile-HCI organisers. Please sty tune!.
+
+Important dates
+* Provisional deadline: 21/8/2020
+
+Submissions made after the provisional deadline will be considered on a rolling basis, with a 2-week notification.
+
+
+# Contact
 
 Contact and participation submission: [mobilehci@datacentricdesign.org](mailto:mobilehci@datacentricdesign.org)
 
 
-# Workshop Activity Plan
+# Organizers
 
-## Morning Schedule
+Jacky Bourgeois, Faculty of Industrial Design Engineering, TU Delft.
 
-Introduction to the theme and workshop method, round table of the participants and warm-up exercise
-	
-### Critique Phase
+Aaron Ding, Department of Engineering Systems and Services, TU Delft Computer Science, University of Helsinki.
 
-Split into disciplinary groups to generate a deep understanding of the problem, then share disciplinary perspectives in plenary session.
-	
-## Morning Break
-	
-### Fantasy Phase
+Jered Vroon, Faculty of Industrial Design Engineering, TU Delft. 
 
-Split into multi-disciplinary groups to envision futures, then share these ideals in plenary session.
-    
-Lunch
-    
-Afternoon Schedule
-    
-Warm-up exercise
-    
-### Implementation Phase
+Ella Peltonen, Center for Ubiquitous Computing, University of Oulu, Finland. 
 
-Identify the barrier towards ideal futures and formulate a research agenda
-	
-### Afternoon Break
-	
-### Conclusion/Evaluation
 
-Connect participants who want to engage in follow-up work and nurture the community
-    
-## Dinner
-
-# Organisers
-
-* Jacky Bourgeois
-* Aaron Ding 
-* Jered Vroon 
-* Ella Peltonen
 

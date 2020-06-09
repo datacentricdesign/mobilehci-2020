@@ -1,6 +1,47 @@
+# Site settings
 title: Ethical Data-Centric Design of Intelligent Behaviour
-logo: /assets/img/logo.png
 description: Workshop of Mobile HCI 2020, Oct. 5th
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+baseurl: ""
+url: "https://mobilehci.datacentricdesign.org"
+
+
+# User settings
+username: Jacky Bourgeois
+user_description:
+email: mobilehci@datacentricdesign.org
+twitter_username: datacentricdesign
+github_username:  datacentricdesign
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Organisers
+    url: /organisers
+
+collections_dir: collections
+collections:
+  organisers:
+    output: true
+    people: true
+    sort_by: name
+
+# exclude my node related stuff
+exclude: ['package.json', 'package-lock.json', 'src', 'node_modules', 'scripts', 'draft', 'gulpfile.js', 'examples']
+
+kramdown:
+  toc_levels: 1..1
