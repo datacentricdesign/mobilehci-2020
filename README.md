@@ -47,7 +47,7 @@ Submit a 1-2 paragraph expression of interest, indicating briefly how the worksh
 
 We will curate the submitted expressions of interest on quality and diversity. The conference organizers have graciously allowed us to waive all fees for participating in this way.  
 
-We are thriving for making this contribution free of registration cost, waiting for the green light from the Mobile-HCI organisers. Please sty tune!.
+We are thriving for making this contribution free of registration cost, waiting for the green light from the Mobile-HCI organisers. Please stay tune!.
 
 Important dates
 * Provisional deadline: 21/8/2020
