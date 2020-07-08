@@ -30,9 +30,9 @@ To accommodate for the current COVID-19 situation, participation in the workshop
 
 ## Option 1: Peer-reviewed Contribution
 
-Submitting a 2-4 page contribution for peer review and publication in the companion of the conference proceedings.
+Submitting a 2-4 page contribution (not blind) for peer review and publication in the companion of the conference proceedings.
 
-There will be some costs associated with publication.
+**Note: There is costs of EUR 80.00 associated with the workshop publication in the Digital Library.**
 
 Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
 
@@ -53,8 +53,6 @@ Important dates
 * Provisional deadline: 21/8/2020
 
 Submissions made after the provisional deadline will be considered on a rolling basis, with a 2-week notification.
-
-**Note: There is an extra fee of EUR 80.00 for the workshop publication in the Digital Library.**
 
 # Fees
 
