@@ -54,6 +54,12 @@ Important dates
 
 Submissions made after the provisional deadline will be considered on a rolling basis, with a 2-week notification.
 
+**Note: There is an extra fee of EUR 80.00 for the workshop publication in the Digital Library.**
+
+# Fees
+
+* Workshop registration before August 19: EUR 20.00
+* Workshop late registration: EUR 30.00
 
 # Contact
 
