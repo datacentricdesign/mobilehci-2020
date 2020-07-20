@@ -37,7 +37,7 @@ Submitting a 2-4 page contribution (not blind) for peer review and publication i
 Template: [SIGCHI Extended Abstract](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF)
 
 Important dates:
-* Submission deadline: 1/7/2020
+* ~~Submission deadline: 1/7/2020~~
 * Notification of acceptance: 29/7/2020 
 * Camera-ready submission: 14/8/2020
 
