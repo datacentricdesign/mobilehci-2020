@@ -7,6 +7,8 @@ info: Online, October 5th
 twitter_text: DatEthics 2020
 ---
 
+[Check out the Program](/program) - [Participate](#participation-expression-of-interest) - [Contact us](#contact)
+
 The Internet of Things makes human activity data – what people do, how they move, how they socialise – an abundant resource. However, this rich and intimate perspective on people, which uniquely shape and characterise their behaviours, can have tremendous ethical implication if data is handled irresponsibly. Being personal, contextual and accessible, mobile devices are key facilitators of (ir)responsible collection and use of data. In this workshop, we will use the Future Workshop approach to develop a research agenda towards an ethical data-centric design of intelligent behaviours. As part of this approach, we will (1) criticise the current mechanisms and infrastructure to frame ethical challenges, (2) fantasise on futures which support user and designer values, and (3) implement a research agenda for the MobileHCI community to emphasise the barriers to tackle. The outcomes of this workshop will foster ethical research and inspire the MobileHCI community.
 
 Topics include but are not limited to:
