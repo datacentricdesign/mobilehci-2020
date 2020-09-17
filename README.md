@@ -32,12 +32,7 @@ To participate, submit a 1-2 paragraph expression of interest, indicating briefl
 
 We will curate the submitted expressions of interest on quality and diversity.
 
-This participation is **Free** and without the requirement to register for the full MobileHCI conference.
-
-Important dates
-* Provisional deadline: 21/8/2020
-
-Submissions made after the provisional deadline will be considered on a rolling basis, with a 2-week notification.
+This participation is **Free** and without the requirement to register for the full MobileHCI conference. **Please submit your expression of interest as soon as possible!**
 
 # Contact
 
