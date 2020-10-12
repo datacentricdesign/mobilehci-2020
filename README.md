@@ -50,4 +50,6 @@ Jered Vroon, Faculty of Industrial Design Engineering, TU Delft.
 Ella Peltonen, Center for Ubiquitous Computing, University of Oulu, Finland. 
 
 
+# Results
 
+<iframe src="/assets/img/pdf/datethics-whiteboard.pdf"></iframe>
