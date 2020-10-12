@@ -52,4 +52,4 @@ Ella Peltonen, Center for Ubiquitous Computing, University of Oulu, Finland.
 
 # Results
 
-<iframe src="/assets/img/pdf/datethics-whiteboard.pdf"></iframe>
+<iframe src="/assets/img/pdf/datethics-whiteboard.pdf" height="600"></iframe>
