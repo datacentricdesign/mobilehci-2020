@@ -30,7 +30,7 @@
     "gulp-plumber": "^1.2.1",
     "gulp-stylus": "^2.7.0",
     "gulp-uglify": "^3.0.2",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "dependencies": {
     "jeet": "=6.1.2",
